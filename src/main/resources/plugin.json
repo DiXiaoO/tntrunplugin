@@ -1,0 +1,9 @@
+{
+  "name": "GenshinMiniGames",
+  "description": "MiniGames by DiXiao",
+  "version": "0.0.1",
+  "mainClass": "genmini.GenshinMiniGamesCore",
+  "authors": [
+    "DiXiao"
+  ]
+}
